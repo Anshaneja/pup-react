@@ -1,0 +1,23 @@
+.acc{
+    padding:1rem;
+    height:4rem;
+    border-left: 4px solid #1506b8;;
+border-radius: 3px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 10px 15px -3px rgba(0 0 0 / 0.1);
+
+}
+.acc-child{
+    padding:2rem;
+    height:auto;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 10px 15px -3px rgba(0 0 0 / 0.1)
+}
+.acc-body{
+    padding:4rem;
+    margin: 2rem;
+}
+.arrow{
+    width:20px;
+    height:20px;
+}
