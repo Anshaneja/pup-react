@@ -186,7 +186,7 @@ const HomePage = () => {
         </div>
         <div className=" p-5">
           <iframe className="aspect-video  h-full w-[600px] rounded-lg"
-            src={`${promotion}`} allow="autoplay"> frameborder="0" allow="accelerometer; ; clipboard-write; encrypted-media; gyroscope; picture-in-picture"</iframe>
+            src="https://www.youtube.com/watch?v=WYRf33XU2os" allow="autoplay"> frameborder="0" allow="accelerometer; ; clipboard-write; encrypted-media; gyroscope; picture-in-picture"</iframe>
         </div>
       </div>
 
@@ -230,7 +230,7 @@ const HomePage = () => {
 
 
           <div className="w-full h-96 mt-16 mx-2 px-3">
-            <iframe src={campus} alt="campus" className="h-full  rounded-lg" />
+            <iframe src="https://www.youtube.com/watch?v=NhPw-sybSs4&t=80s" alt="campus" className="h-full  rounded-lg" />
           </div>
         </div>
 
